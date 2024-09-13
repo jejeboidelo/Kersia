@@ -1,3 +1,18 @@
+# Modification de la page
+
+Presque tout le contenu de la page est situé dans le appPackage/manifest.json. On y retrouve les informations de contexte comme le nom, les descriptions et les chemins relatif où trouver les logos.
+
+Dedans, la partie statictabs contient les différents onglets de l'application, dans de cas, un seul qui contient la redirection vers votre site.
+
+# Test
+
+Pour ce qui est de tester l'App, lancer le debbug et tester sur Teams navigateur permet de récupérer plus facilement les erreurs dans la console.
+
+# Déploiment 
+
+Pour déployer, je recommande le plugin Teams Toolkit sur VSCode qui permet simplement de zipper l'application.
+
+
 # Overview of the Basic Tab template
 
 This template showcases how Microsoft Teams supports the ability to run web-based UI inside "custom tabs" that users can install either for just themselves (personal tabs) or within a team or group chat context.

@@ -41,6 +41,6 @@
         "messageTeamMembers"
     ],
     "validDomains": [
-        "${{TAB_DOMAIN}}"
+        
     ]
 }
